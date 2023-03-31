@@ -1,6 +1,6 @@
 # proj
 
-Progetto Laravel Global Family Service
+Progetto Laravel wefox
 
 ## INSTALLAZIONE LARAVEL
 Deve essere attivo il servizio docker
